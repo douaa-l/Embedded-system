@@ -5,7 +5,8 @@ This Project is to learn Open CV and Python Code on Raspberry Pi
 
 Following High level design shows all the main components of the system :
 
-![image](https://user-images.githubusercontent.com/39213721/166169563-e0ed10c1-bdd7-4b9b-b127-54b4f9ece58f.png)
+
+![image](https://user-images.githubusercontent.com/39213721/166169836-3c452215-c761-4518-bdc2-21665024e5c4.png)
 
 
 	1. Camera Module
