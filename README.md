@@ -13,3 +13,6 @@ Following High level design shows all the main components of the system :
 	
 Here we have roughly identified all the basic hardware components required
 
+Basic Software Design can be realized by the state machine below
+
+<img width="590" alt="image" src="https://user-images.githubusercontent.com/39213721/166178436-fd25b11e-3950-4890-9ae5-f6d884d15fe5.png">
